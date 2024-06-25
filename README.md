@@ -1,14 +1,12 @@
 # my-minecraft-clone
-Creating basic Minecraft clone with Three.js and ReactJS
+Creando un clon básico de Minecraft con Three.js y ReactJS
 
 ## Development
-Install:
+
 ```sh
 yarn
 ```
-Run:
+
 ```sh
 yarn dev
 ```
----
-⌨️ with ❤️ by [angelovelandia](https://github.com/angelovelandia) 😊
